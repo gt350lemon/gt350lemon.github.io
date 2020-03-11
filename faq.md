@@ -38,7 +38,7 @@ _**Q: What happened with the car?**_<br />
 A: While driving in Atlanta, the car made a loud "thump" sound and the car immediately shut off. After getting into the emergency lane, I was unable to start the car. A month later, Ford confirmed that the engine rod bearings had gotten locked up and that the starter was fried. See video: https://www.youtube.com/watch?v=UM1nQggSPa4
 
 _**Q: Did you check your car for oil prior to the engine failure?**_<br />
-A: My engine failed shortly after getting an oil change (approx a few days of driving it). After moving to Atlanta, I informed my dealership about all of the engine oil issues I've heard about due to technicians not putting enough oil in the car. They told me that this wouldn't be an issue; however, based on the issues that have happened, many people have assumed that not enough oil was put into the car. I didn't check since I had just gotten it done and trusted the dealership.
+A: My engine failed shortly after getting an oil change (approx a few days of driving it). After moving to Atlanta, I informed my dealership about all of the engine oil issues I've heard about due to technicians not putting enough oil in the car. They told me that this wouldn't be an issue. I didn't check to see if enough oil was in the car since I trusted the dealership and it was only just days later. 
 
 _**Q: What was the reason for the dealership denying your warranty for the engine replacement?**_<br />
 A: Sadly, neither the dealership nor Ford Customer Care provided me any specifics on what their determination was, other than "modifications". I have been unable to retrieve any further information or any proof whatsoever. All of the issues I've had with this car has been covered under warranty without any question and the modifications have been on the car since shortly after having it delivered.
@@ -47,10 +47,12 @@ _**Q: What car are you considering getting next?**_<br />
 A: I purchased the GT350 because I never saw them on the road and loved how they looked, sound, and drove. There's no other american muscle car that I think I would feel "exclusive" with except for perhaps the ZL1 1LE. However, I've started looking at Porsche Cayman and Carerra models and have gained a lot of interest in possibly going this route.
 
 _**Q: What advice would you give to someone who's considering buying a GT350?**_<br />
-A: Choose your dealership wisely. My experience with three dealerships were perfectly fine, including the service advisors and the technicians. Sadly, one dealership could essentially give you hell while the other may become your best friend and will do whatever it takes to keep you as a happy customer.
+A: Choose your dealership wisely. My experience with three dealerships were perfectly fine in and around New Orleans, including the service advisors and the technicians. Sadly, one dealership could essentially give you hell while the other may become your best friend and will do whatever it takes to keep you as a happy customer.
 
 _**Q: Did you talk with Ford Customer Care?**_<br />
 A: Ford Customer Care has been just "OK" with following up with the dealership; however, your case can easily fall through the cracks. In fact, it had gone two weeks without me hearing from Ford Customer Care and despite me telling them that it's been so long and I needed a follow up, they just simply told me to wait. A week or so later, I was told that my rep went on vacation.
 
+Update (03/09/20): After comparing OASIS reports with Ford Customer Care, it turns out that ESP actually did not inspect the car and, instead, immediately denied coverage after identifying modifications on the car. This occurred back in October and I had never been notified. A refund check was also issued back in October and I was unaware of this.
+
 _**Q: Would you get another GT350?**_<br />
-A: Sadly, I would not. My experience with Ford's customer service has been extremely unfortunate. Although I believe that, if I made different decisions about my dealership selections, my experiences next time would go a lot smoother.
+A: Sadly, I would not. My experience with Ford's customer service has been extremely disastrous. Although I believe that, if I made different decisions about my dealership selections, my experiences next time would go a lot smoother.
