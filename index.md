@@ -2,4 +2,6 @@
 layout: default
 ---
 
-Hello World
+![gt350 lemon](/gt350.png)
+
+[Frequently Asked Questions](./faq) \| [Service History](./service-records)
