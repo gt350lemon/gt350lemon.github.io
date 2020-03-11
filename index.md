@@ -6,4 +6,4 @@ layout: default
 
 [Frequently Asked Questions](./faq) \| [Service History](./service-records)
 
-Last updated: March 9, 2020. More info to come...
+Last updated: March 9, 2020. More info to come.
